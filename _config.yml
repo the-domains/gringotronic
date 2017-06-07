@@ -1,0 +1,34 @@
+name: GringoTronic
+analytics: {}
+github: true
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.7785374806262553
+color:
+  lightness: 0.6694366146506361
+  brandColors:
+    - '#962D3E'
+    - '#343642'
+    - '#979C9C'
+    - '#F2EBC7'
+    - '#348899'
+  saturation: 0.431546636724739
+  brandStrength: 0.06932686061349858
+  rhythmicContrast: 0.02149497042910544
+content_rating:
+  adult: false
+typography_spectrum: 0.005145570961758494
+opengraph: {}
+title: GringoTronic
